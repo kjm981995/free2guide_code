@@ -2,6 +2,7 @@
 
 ## ___***Free2Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models***___
 
+<img src="assets/free2guide_main.png">
 
 
 ## ⚙️ Setup
