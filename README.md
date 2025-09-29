@@ -1,7 +1,7 @@
-<img width="1521" height="474" alt="image" src="https://github.com/user-attachments/assets/ed358a8e-5cc7-4289-9443-bb620be920a4" />
 
 ## ___***Free2Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models***___
 
+<img width="1521" height="474" alt="image" src="https://github.com/user-attachments/assets/ed358a8e-5cc7-4289-9443-bb620be920a4" />
 
 
 ## ⚙️ Setup
