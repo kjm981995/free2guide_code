@@ -22,7 +22,7 @@ Download pretrained T2V models via [Hugging Face](https://huggingface.co/VideoCr
 
 ### 3. Inference
 
-Run Free2guide code. 
+Edit OpenAI API key `client = AsyncOpenAI(api_key="YourAPI")` in `path_integral_video.py`. Then run Free2guide code. 
 
 ```
 python path_integral_video.py
