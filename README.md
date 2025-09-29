@@ -1,4 +1,4 @@
-
+<img width="1521" height="474" alt="image" src="https://github.com/user-attachments/assets/ed358a8e-5cc7-4289-9443-bb620be920a4" />
 
 ## ___***Free2Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models***___
 
@@ -20,7 +20,13 @@ pip install -r requirements.txt
 
 Download pretrained T2V models via [Hugging Face](https://huggingface.co/VideoCrafter/VideoCrafter2/blob/main/model.ckpt), and put the `model.ckpt` in `checkpoints/base_512_v2/model.ckpt`.
 
-### 3. 
+### 3. Inference
+
+Run Free2guide code. 
+
+```
+python path_integral_video.py
+```
 
 
 ## Acknowledgements
